@@ -11,7 +11,7 @@ AIプラットフォーム企業の動的モデル日本語表示 -> AIpfm_j.mdl
 ![Chapter_4_Fig_4_1_j](https://github.com/user-attachments/assets/45727bf0-ec40-4727-8288-17af2e8d5f6e)
 
 図4.7　一般化線形／非線形回帰モデルによる(データ境界比率)等高線図の比較
-
+![Chapter_7_Fig_4_7](https://github.com/user-attachments/assets/28e13382-95b0-4fd5-912d-34b7b02efb26)
 #
 The following is written in English:
 
