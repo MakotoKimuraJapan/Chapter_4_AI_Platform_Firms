@@ -1,7 +1,9 @@
 # Chapter_4_AI_Platform_Firms
 The following is written in Japanese:
 
-x.mdlファイルは、Ventana Systems社Vensim用SDモデルファイルである。無償ソフトウェアのVentana Systems社Vensim PLEを利用した実行が可能。モデル内の変数と定数名は日本語で表記されている。
+x.mdlファイルは、Ventana Systems社Vensim用システムダイナミクス（SD）モデルファイルである。無償ソフトウェアのVentana Systems社Vensim PLEを利用した実行が可能。モデル内の変数と定数名は日本語で表記されている。
+
+Jpynbファイルは、 Juliaコードで作成された動的モデル、実行結果の一般線形/非線形回帰モデルと視覚化。
 
 Vensimは、Version10以降、モデルの表記法を独自形式に変更した。従来のシステム・ダイナミクスの表記法に変更してモデルを表示するためには、以下の指定を行う。
 
