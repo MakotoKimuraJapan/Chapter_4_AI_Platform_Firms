@@ -7,7 +7,7 @@ Abstract for: Feature balance of scale and scope of data in AI platform firms ht
 Paper:Feature balance of scale and scope of data in AI platform firms https://proceedings.systemdynamics.org/2024/papers/P1003.pdf
 
 AI Platform Firms SD model -> AIpfm_e.mdl
-
+![Chapter_4_Fig_4_1_e](https://github.com/user-attachments/assets/5af4f129-87ea-4e10-a927-ab511d447f4b)
 #
 The following is written in Japanese:
 
